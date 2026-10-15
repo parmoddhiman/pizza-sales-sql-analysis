@@ -256,12 +256,4 @@ WHERE rnk <= 3;
 - 📊 Revenue contribution calculation
 - 🏆 Top-performing pizzas by revenue
 
-
----
-
-# 👨‍💻 Author
-
-**Parmod Kamal**
-
-- Data Engineer
-- GitHub Portfolio Project
+--

@@ -1,12 +1,12 @@
-# 🍕 Pizza Sales SQL Analysis Project
+# Pizza Sales SQL Analysis Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes pizza sales data using SQL to uncover key business insights, including revenue trends, customer ordering patterns, best-selling pizzas, and category performance.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **SQL Concepts:** Joins, CTE, Window Functions, Aggregations, Group By and Order By.
 

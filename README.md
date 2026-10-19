@@ -249,11 +249,11 @@ WHERE rnk <= 3;
 
 # 🔍 Key Insights
 
-- 💰 Revenue analysis and business performance tracking
-- 🍕 Best-selling pizza identification
-- 📦 Category performance comparison
-- ⏰ Peak sales hour analysis
-- 📊 Revenue contribution calculation
-- 🏆 Top-performing pizzas by revenue
+- Revenue analysis and business performance tracking
+- Best-selling pizza identification
+- Category performance comparison
+- Peak sales hour analysis
+- Revenue contribution calculation
+- Top-performing pizzas by revenue
 
 --
